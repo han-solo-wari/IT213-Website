@@ -1,0 +1,8 @@
+@font-face {
+	font-family: 'Giaza Pro';
+	src: url('giaza_pro-webfont.eot');
+	src: url('giaza_pro-webfont.eot?#iefix') format('embedded-opentype'),
+		url('giaza_pro-webfont.woff') format('woff'),
+		url('giaza_pro-webfont.ttf') format('truetype'),
+		url('giaza_pro-webfont.svg') format('svg');
+}
